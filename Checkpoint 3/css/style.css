@@ -1,0 +1,26 @@
+.main_title {
+    /* flex-basis: 40%;*/
+     display:flex;
+     max-width:980px;
+     margin:auto;
+     align-items:center;
+     margin-left: 150px;
+     margin-top: 50px;
+   }
+.title{padding:10px;}
+.title_image{
+    width: 200px;
+    height: 200px;
+}
+.navigation{
+/* margin-left: 350px;
+margin-top: 50px;
+max-width:980px;
+align-items:center;
+font-size: large;
+word-spacing: 10px; */
+display: inline;
+}
+* {
+    font-family: roboto, sans-sherif;
+}
